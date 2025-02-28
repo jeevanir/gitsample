@@ -1,0 +1,112 @@
+go to path C:\Users\rhari\OneDrive\Documents\GitHub\gitsample
+save file
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   dev1.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git commit -m "Updated files"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   dev1.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git init
+Reinitialized existing Git repository in C:/Users/rhari/OneDrive/Documents/GitHub/gitsample/.git/
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git commit -m "Updated files"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   dev1.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git config user.name "jeevanir"
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git config user.email "jeev.raya@gmail.com"
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git add .
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   dev1.txt
+
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git push origin main
+Everything up-to-date
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git log --oneline -n 5
+2b9eb18 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from jeevanir/dev1
+e073aa5 (origin/dev1) second tryin git practice
+1236507 update the README to include links to contributing guide
+8cd2faf (dev1) first commit
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git ls-files | grep dev1.txt
+'grep' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>dir
+ Volume in drive C is Windows
+ Volume Serial Number is B641-6D8C
+
+ Directory of C:\Users\rhari\OneDrive\Documents\GitHub\gitsample
+
+02/28/2025  09:29 AM    <DIR>          .
+02/27/2025  05:47 PM    <DIR>          ..
+02/28/2025  09:29 AM                 0 another.txt
+02/28/2025  09:58 AM            15,110 dev1.txt
+02/28/2025  09:29 AM    <DIR>          gitsample
+02/28/2025  09:29 AM                 0 main
+02/28/2025  09:29 AM             5,172 README.md
+               4 File(s)         20,282 bytes
+               3 Dir(s)  207,875,555,328 bytes free
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   dev1.txt
+
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git add dev1.txt
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git add .
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git commit -m "Updated example.txt with latest changes"
+[main ba68256] Updated example.txt with latest changes
+ 1 file changed, 96 insertions(+), 1 deletion(-)
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git push origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.33 KiB | 1.33 MiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/jeevanir/gitsample.git
+   2b9eb18..ba68256  main -> main
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>
+82 line to end process is correct
