@@ -114,3 +114,16 @@ C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>
 =======
 C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>
 >>>>>>> c0817056d17474219615743124c54babf2d4ab33
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git pull
+error: You have not concluded your merge (MERGE_HEAD exists).
+hint: Please, commit your changes before merging.
+fatal: Exiting because of unfinished merge.
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git add update.txt
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git commit -m "Resolved merge conflict"
+[main 9b89081] Resolved merge conflict
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git pull
+Already up to date.
