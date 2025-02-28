@@ -108,5 +108,9 @@ remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
 To https://github.com/jeevanir/gitsample.git
    2b9eb18..ba68256  main -> main
 
+<<<<<<< HEAD
 C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>
 82 line to end process is correct
+=======
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>
+>>>>>>> c0817056d17474219615743124c54babf2d4ab33
