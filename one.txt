@@ -1,0 +1,55 @@
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>dir
+ Volume in drive C is Windows
+ Volume Serial Number is B641-6D8C
+
+ Directory of C:\Users\rhari\OneDrive\Documents\GitHub\gitsample
+
+02/28/2025  10:58 AM    <DIR>          .
+02/27/2025  05:47 PM    <DIR>          ..
+02/28/2025  09:29 AM                 0 another.txt
+02/28/2025  09:58 AM            15,110 dev1.txt
+02/28/2025  09:29 AM    <DIR>          gitsample
+02/28/2025  09:29 AM                 0 main
+02/28/2025  10:58 AM                 0 one.txt
+02/28/2025  09:29 AM             5,172 README.md
+02/28/2025  10:45 AM             4,982 update.txt
+               6 File(s)         25,264 bytes
+               3 Dir(s)  207,616,045,056 bytes free
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git status
+On branch dev2
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git push
+fatal: The upstream branch of your current branch does not match
+the name of your current branch.  To push to the upstream branch
+on the remote, use
+
+    git push origin HEAD:main
+
+To push to the branch of the same name on the remote, use
+
+    git push origin HEAD
+
+To choose either option permanently, see push.default in 'git help config'.
+
+To avoid automatically configuring an upstream branch when its name
+won't match the local branch, see option 'simple' of branch.autoSetupMerge
+in 'git help config'.
+
+
+C:\Users\rhari\OneDrive\Documents\GitHub\gitsample>git push origin HEAD:main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 246 bytes | 246.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/jeevanir/gitsample.git
+   ec3f963..7324b0a  HEAD -> main
+try adding and modification:
+git commit --amend -m "commot" one.txt
