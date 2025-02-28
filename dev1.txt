@@ -265,3 +265,98 @@ Fast-forward
  create mode 100644 main
 
  Now it will show in github website
+ Branch Dev1
+C:\Users\rhari\gitsample\gitsample\gitsample2>git branch
+* main
+
+C:\Users\rhari\gitsample\gitsample\gitsample2>git checkout -b
+error: switch `b' requires a value
+
+C:\Users\rhari\gitsample\gitsample\gitsample2>git checkout -b dev1
+Switched to a new branch 'dev1'
+
+C:\Users\rhari\gitsample\gitsample\gitsample2>git status
+On branch dev1
+nothing to commit, working tree clean
+
+C:\Users\rhari\gitsample\gitsample\gitsample2>git commit -m "second tryin git practice"
+On branch dev1
+nothing to commit, working tree clean
+
+C:\Users\rhari\gitsample\gitsample\gitsample2>git remote add https://github.com/jeevanir/gitsample/tree/dev1
+usage: git remote add [<options>] <name> <url>
+
+    -f, --[no-]fetch      fetch the remote branches
+    --[no-]tags           import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --[no-]track <branch>
+                          branch(es) to track
+    -m, --[no-]master <branch>
+                          master branch
+    --[no-]mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+
+C:\Users\rhari\gitsample\gitsample\gitsample2>git pull
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> dev1
+
+
+C:\Users\rhari\gitsample\gitsample\gitsample2>  git branch --set-upstream-to=origin/<branch> dev1
+The system cannot find the file specified.
+
+C:\Users\rhari\gitsample\gitsample\gitsample2>  git branch --set-upstream-to=origin/main dev1
+branch 'dev1' set up to track 'origin/main'.
+
+C:\Users\rhari\gitsample\gitsample\gitsample2>git status
+On branch dev1
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+C:\Users\rhari\gitsample\gitsample\gitsample2>git push
+fatal: The upstream branch of your current branch does not match
+the name of your current branch.  To push to the upstream branch
+on the remote, use
+
+    git push origin HEAD:main
+
+To push to the branch of the same name on the remote, use
+
+    git push origin HEAD
+
+To choose either option permanently, see push.default in 'git help config'.
+
+To avoid automatically configuring an upstream branch when its name
+won't match the local branch, see option 'simple' of branch.autoSetupMerge
+in 'git help config'.
+
+
+C:\Users\rhari\gitsample\gitsample\gitsample2>  git push origin HEAD
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 3.40 KiB | 3.40 MiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/jeevanir/gitsample
+   8cd2faf..e073aa5  HEAD -> dev1
+
+C:\Users\rhari\gitsample\gitsample\gitsample2>
+Now pull request in GitHub website https://github.com/jeevanir/gitsample
+
+compare and pull request button press and also next create pull request click button
+and press third green button merge pull request.
+Next click green button confirm merge.
+Now dev1.txt second try request heading appears in https://github.com/jeevanir/gitsample/main/dev1.txt
+hhhh
+hello not able to update thi steps
