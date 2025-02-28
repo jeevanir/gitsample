@@ -1,0 +1,267 @@
+Microsoft Windows [Version 10.0.26100.3194]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\rhari>dir
+ Volume in drive C is Windows
+ Volume Serial Number is B641-6D8C
+
+ Directory of C:\Users\rhari
+
+02/27/2025  06:00 PM    <DIR>          .
+12/09/2024  03:08 AM    <DIR>          ..
+06/05/2024  10:01 AM    <DIR>          .anaconda
+05/16/2024  07:50 AM    <DIR>          .android
+10/01/2024  12:46 PM               175 .angular-config.json
+02/28/2025  08:53 AM             5,473 .bash_history
+05/28/2024  01:58 AM    <DIR>          .cache
+02/11/2025  11:16 AM    <DIR>          .conda
+06/05/2024  10:01 AM                25 .condarc
+06/05/2024  10:01 AM    <DIR>          .continuum
+05/10/2024  06:26 AM    <DIR>          .cricut-design-space
+09/22/2024  02:18 PM    <DIR>          .dotnet
+02/18/2025  09:37 AM    <DIR>          .eclipse
+04/20/2024  02:34 AM                16 .emulator_console_auth_token
+02/27/2025  05:47 PM               219 .gitconfig
+05/04/2024  06:59 AM    <DIR>          .gradle
+02/05/2025  01:32 PM    <DIR>          .ipynb_checkpoints
+06/05/2024  10:03 AM    <DIR>          .ipython
+06/08/2024  08:31 AM    <DIR>          .jupyter
+02/16/2025  02:28 PM    <DIR>          .lemminx
+02/27/2025  06:00 PM                20 .lesshst
+02/17/2025  11:29 AM    <DIR>          .m2
+06/07/2024  08:13 AM    <DIR>          .matplotlib
+09/22/2024  04:10 PM               120 .node_repl_history
+09/22/2024  03:57 PM                36 .npmrc
+02/24/2025  03:44 PM    <DIR>          .p2
+01/13/2025  11:49 AM    <DIR>          .spyder-py3
+09/22/2024  02:29 PM    <DIR>          .templateengine
+02/27/2025  02:32 PM             1,506 .viminfo
+04/21/2024  12:04 AM    <DIR>          .VirtualBox
+10/16/2024  11:21 AM    <DIR>          .vscode
+08/26/2024  10:09 AM         4,408,263 abc.xlsx
+08/26/2024  01:31 PM    <DIR>          anaconda3
+04/30/2024  01:37 AM    <DIR>          AndroidStudioProjects
+10/16/2024  10:17 AM    <DIR>          angular
+06/05/2024  10:11 AM             5,961 bmisample_pythoncode.ipynb
+08/26/2024  01:54 PM            84,729 Breast Cancer Detection with Machine Learning.ipynb
+12/09/2024  03:14 AM    <DIR>          Contacts
+08/30/2024  02:56 PM    <DIR>          Devops
+10/03/2024  02:31 PM    <DIR>          Documents
+02/27/2025  03:12 PM    <DIR>          Downloads
+10/03/2024  03:35 PM    <DIR>          drivers
+02/19/2025  02:36 PM    <DIR>          eclipse-workspace
+02/05/2025  01:44 PM               212 ecommerce_customers.csv
+12/09/2024  03:14 AM    <DIR>          Favorites
+08/30/2024  03:48 PM    <DIR>          FullStack-Blogging
+08/30/2024  03:13 PM    <DIR>          FullStack-Blogging-App
+02/27/2025  05:37 PM    <DIR>          gitsample
+02/27/2025  12:59 PM    <DIR>          Gitsampleproject
+10/10/2024  07:40 AM    <DIR>          gs-spring-boot
+06/08/2024  08:29 AM    <DIR>          Jedi
+06/28/2024  08:33 AM             5,010 june282024.ipynb
+02/06/2025  01:59 PM            96,540 linear_regression_python.ipynb
+12/09/2024  03:14 AM    <DIR>          Links
+08/18/2024  08:56 AM    <DIR>          Muse Hub
+12/09/2024  03:14 AM    <DIR>          Music
+11/03/2024  11:11 AM    <DIR>          my-app
+10/16/2024  11:01 AM    <DIR>          myapp
+10/16/2024  11:14 AM    <DIR>          mynewapp.angular
+02/27/2025  03:10 PM    <DIR>          OneDrive
+10/03/2024  01:07 PM    <DIR>          Oracle
+02/20/2025  01:41 PM                84 package-lock.json
+02/04/2025  01:56 PM            18,760 panda.ipynb
+01/26/2024  01:56 PM    <DIR>          Pictures
+09/22/2024  04:20 PM    <DIR>          practice1_sep22
+12/09/2024  03:14 AM    <DIR>          Saved Games
+12/09/2024  03:14 AM    <DIR>          Searches
+09/22/2024  02:56 PM    <DIR>          source
+07/02/2024  04:16 AM             5,270 sumofdigits.ipynb
+08/26/2024  10:06 AM            74,441 titanicone.ipynb
+08/23/2024  07:03 PM            62,894 train.csv
+08/24/2024  03:42 PM            66,349 train3.csv
+08/26/2024  01:29 PM    <DIR>          tutorial
+06/08/2024  08:33 AM             1,361 Untitled.ipynb
+08/23/2024  05:02 PM            49,968 Untitled1.ipynb
+01/19/2025  02:45 PM             1,243 Untitled10.ipynb
+01/23/2025  03:14 PM            10,385 Untitled11.ipynb
+02/03/2025  03:01 PM             1,691 Untitled12.ipynb
+02/05/2025  01:35 PM             1,295 Untitled14.ipynb
+08/24/2024  04:04 PM             4,506 Untitled2.ipynb
+08/24/2024  04:11 PM             5,750 Untitled3.ipynb
+08/26/2024  10:50 AM            88,936 Untitled4.ipynb
+08/26/2024  11:00 AM                72 Untitled5.ipynb
+08/26/2024  11:23 AM            13,176 Untitled6.ipynb
+08/26/2024  11:52 AM            19,002 Untitled7.ipynb
+08/26/2024  01:32 PM            13,669 Untitled8.ipynb
+01/13/2025  12:04 PM             3,135 Untitled9.ipynb
+07/15/2024  08:08 PM             1,651 vectormatrix.ipynb
+12/09/2024  03:14 AM    <DIR>          Videos
+              36 File(s)      5,051,943 bytes
+              53 Dir(s)  208,414,998,528 bytes free
+
+C:\Users\rhari>cd gitsample
+
+C:\Users\rhari\gitsample>git status
+On branch dev1
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+        modified:   gitsample (untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\rhari\gitsample>git checkout -b dev1
+fatal: a branch named 'dev1' already exists
+
+C:\Users\rhari\gitsample>ls -la
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\rhari\gitsample>cd dev1
+The system cannot find the path specified.
+
+C:\Users\rhari\gitsample>git init
+Reinitialized existing Git repository in C:/Users/rhari/gitsample/.git/
+
+C:\Users\rhari\gitsample>git status
+On branch dev1
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+        modified:   gitsample (untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\rhari\gitsample>git add example.txt
+fatal: pathspec 'example.txt' did not match any files
+
+C:\Users\rhari\gitsample>cd gitsample2
+The system cannot find the path specified.
+
+C:\Users\rhari\gitsample>C:\Users\rhari\gitsample\gitsample\gitsample2
+'C:\Users\rhari\gitsample\gitsample\gitsample2' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\rhari\gitsample>cd gitsample
+
+C:\Users\rhari\gitsample\gitsample>git status
+On branch main
+Your branch and 'origin/main' have diverged,
+and have 1 and 1 different commits each, respectively.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    gitsample
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        gitsample2/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\rhari\gitsample\gitsample>git add dev1
+fatal: pathspec 'dev1' did not match any files
+
+C:\Users\rhari\gitsample\gitsample>git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Disable this message with "git config set advice.addEmptyPathspec false"
+
+C:\Users\rhari\gitsample\gitsample>git add .
+warning: adding embedded git repository: gitsample2
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint:
+hint:   git submodule add <url> gitsample2
+hint:
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint:
+hint:   git rm --cached gitsample2
+hint:
+hint: See "git help submodule" for more information.
+hint: Disable this message with "git config set advice.addEmbeddedRepo false"
+
+C:\Users\rhari\gitsample\gitsample>git status
+On branch main
+Your branch and 'origin/main' have diverged,
+and have 1 and 1 different commits each, respectively.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        renamed:    gitsample -> gitsample2
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+        modified:   gitsample2 (untracked content)
+
+
+C:\Users\rhari\gitsample\gitsample>git commit -m "first commit trying practice"
+[main e171c0c] first commit trying practice
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename gitsample => gitsample2 (100%)
+
+C:\Users\rhari\gitsample\gitsample>git status
+On branch main
+Your branch and 'origin/main' have diverged,
+and have 2 and 1 different commits each, respectively.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+        modified:   gitsample2 (untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\rhari\gitsample\gitsample>^A^A
+
+Then go to GITHUB:
+https://github.com/jeevanir/gitsample/tree/dev1
+C:\Users\rhari\gitsample\gitsample>git config user.name "jeevanir"
+
+C:\Users\rhari\gitsample\gitsample>git config user.email "jeev.raya@gmail.com"
+
+C:\Users\rhari\gitsample\gitsample>git remote add https://github.com/jeevanir/gitsample/tree/dev1
+usage: git remote add [<options>] <name> <url>
+
+    -f, --[no-]fetch      fetch the remote branches
+    --[no-]tags           import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --[no-]track <branch>
+                          branch(es) to track
+    -m, --[no-]master <branch>
+                          master branch
+    --[no-]mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+C:\Users\rhari\gitsample\gitsample\gitsample2>git pull
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 4 (delta 0), reused 4 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (4/4), 2.03 KiB | 173.00 KiB/s, done.
+From https://github.com/jeevanir/gitsample
+   8cd2faf..1236507  main       -> origin/main
+ * [new branch]      dev1       -> origin/dev1
+Updating 8cd2faf..1236507
+Fast-forward
+ README.md   | 145 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ another.txt |   0
+ gitsample   |   1 +
+ main        |   0
+ 4 files changed, 146 insertions(+)
+ create mode 100644 another.txt
+ create mode 160000 gitsample
+ create mode 100644 main
+
+ Now it will show in github website
